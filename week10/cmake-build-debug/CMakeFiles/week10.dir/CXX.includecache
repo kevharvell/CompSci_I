@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kev/Desktop/CS/161/week10/Customer.cpp
+iostream
+-
+Customer.hpp
+C:/Users/Kev/Desktop/CS/161/week10/Customer.hpp
+
+C:/Users/Kev/Desktop/CS/161/week10/Customer.hpp
+vector
+-
+Product.hpp
+C:/Users/Kev/Desktop/CS/161/week10/Product.hpp
+
+C:/Users/Kev/Desktop/CS/161/week10/Product.cpp
+iostream
+-
+Product.hpp
+C:/Users/Kev/Desktop/CS/161/week10/Product.hpp
+
+C:/Users/Kev/Desktop/CS/161/week10/Product.hpp
+string
+-
+
+C:/Users/Kev/Desktop/CS/161/week10/Store.cpp
+iostream
+-
+algorithm
+-
+Store.hpp
+C:/Users/Kev/Desktop/CS/161/week10/Store.hpp
+
+C:/Users/Kev/Desktop/CS/161/week10/Store.hpp
+vector
+-
+string
+-
+Customer.hpp
+C:/Users/Kev/Desktop/CS/161/week10/Customer.hpp
+

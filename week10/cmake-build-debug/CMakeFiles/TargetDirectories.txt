@@ -1,0 +1,3 @@
+C:/Users/Kev/Desktop/CS/161/week10/cmake-build-debug/CMakeFiles/week10.dir
+C:/Users/Kev/Desktop/CS/161/week10/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kev/Desktop/CS/161/week10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
